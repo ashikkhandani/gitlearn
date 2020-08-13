@@ -1,8 +1,8 @@
 # Heading1 Master
 
-*One
-*Two
-*Three
+* One
+* Two
+* Three
 
 ## SubHeader - Master
 
